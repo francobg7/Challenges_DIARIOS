@@ -1,2 +1,2 @@
 # Challenges_DIARIOS
-Repo para challenges diarios
+Repo para challenges diarios CodePro
